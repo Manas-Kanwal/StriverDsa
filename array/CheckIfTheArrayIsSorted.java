@@ -1,3 +1,4 @@
+package array;
 public class CheckIfTheArrayIsSorted {
     public static boolean check(int[] nums) {
        int n = nums.length ;
